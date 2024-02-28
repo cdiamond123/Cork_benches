@@ -1,3 +1,3 @@
 # Cork_benches
 Bench locations around Cork City Centre.
-https://github.com/cdiamond123/Cork_benches
+https://cdiamond123.github.io/Cork_benches/https://cdiamond123.github.io/Cork_benches/
